@@ -34,4 +34,12 @@ The frontend provides a clean, 4-page dashboard layout (accessible via tabs or s
 3. **Syllabus & Learning Path:** Hierarchical Tree/Graph visualization showing topic relations and lock icons for unfulfilled prerequisites.
 4. **History & Analytics:** Tracks uncompleted tasks via Linked List logs and provides a review panel for exam/quiz mistakes.
 
----
+## Below  some Screen Shots are Attach:
+
+<img width="897" height="478" alt="git1" src="https://github.com/user-attachments/assets/ad77caf7-f091-4147-b38b-29ae51428402" />
+
+<img width="781" height="232" alt="git2" src="https://github.com/user-attachments/assets/6dab93c4-f7d7-4e28-8156-123c5a8644f9" />
+
+<img width="1356" height="513" alt="git3" src="https://github.com/user-attachments/assets/5a837d2c-a648-4257-8744-5bbc99f5df45" />
+
+
